@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344508418064",
+    "project_id": "citytranspor-ac99a",
+    "storage_bucket": "citytranspor-ac99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344508418064:android:756f80d092cdbbde8c6295",
+        "android_client_info": {
+          "package_name": "com.maid.citytranspor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344508418064-liq44puiub5pjg4kvntfsn9a98geoqeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUBwQAksgW2RZGgNAUeIYYid2lLyJWD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344508418064-liq44puiub5pjg4kvntfsn9a98geoqeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
